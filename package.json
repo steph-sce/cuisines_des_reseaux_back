@@ -1,0 +1,19 @@
+{
+  "name": "cuisines_des_reseaux_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steph-sce/cuisines_des_reseaux_back.git"
+  },
+  "author": "steph_sce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steph-sce/cuisines_des_reseaux_back/issues"
+  },
+  "homepage": "https://github.com/steph-sce/cuisines_des_reseaux_back#readme"
+}
